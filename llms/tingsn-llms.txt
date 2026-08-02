@@ -1,0 +1,15 @@
+# Tingsn (霆升科技)
+
+> Jiangsu Tingsn Technology Co., Ltd. is a Nanjing, China medical-device company focused on ultrasound for cardiac electrophysiology and structural heart disease. It builds intracardiac echocardiography (ICE) products — the TINGSN Sonic Eyes line of disposable 2D ICE diagnostic catheters and TINGSN FINDERS portable color ultrasound systems — with 4D ICE, ultrasound 3D mapping, and ultrasound ablation systems in development. Backed by Qiming Venture Partners; R&D centers in Nanjing and Massachusetts. Tingsn is a hardware/clinical company and publishes no public API or developer program.
+
+## Company
+
+- [Website (Chinese)](http://www.tingsn.com): corporate site — products, services, news, resources, about
+- [Website (English)](http://en.tingsn.com): English mirror of the corporate site
+- [Products](http://tingsn.com/product.php): 2D ICE catheters (Sonic Eyes 10 / 10 Eco / 10 Pro / 8 Eco), portable ultrasound (FINDERS 1 / 2)
+- [News](http://tingsn.com/news.php): company news and announcements
+- [Technical support](http://tingsn.com/service.php): service contact — service@tingsn.com
+
+## API Evangelist profile
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/tingsn/refs/heads/main/apis.yml): APIs.json profile (no public APIs; company profile only)

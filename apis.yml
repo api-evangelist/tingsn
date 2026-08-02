@@ -1,7 +1,26 @@
 aid: tingsn
-name: tingsn
-description: tingsn is a company surfaced as a portfolio company of qiming and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Tingsn
+description: Jiangsu Tingsn Technology (霆升科技) is a Nanjing, China medical-device
+  company focused on ultrasound for cardiac electrophysiology and structural heart
+  disease. It develops intracardiac echocardiography (ICE) products, including the
+  TINGSN Sonic Eyes line of disposable 2D ICE diagnostic catheters — among the first
+  domestically developed ICE catheters approved by China's NMPA (registration 2023)
+  — and TINGSN FINDERS portable color ultrasound systems, with 4D ICE, ultrasound
+  3D mapping, and ultrasound ablation platforms in development. Backed by Qiming Venture
+  Partners with R&D centers in Nanjing and Massachusetts, Tingsn is a clinical hardware
+  company and publishes no public API or developer program.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: http://tingsn.com/assets/images/logo.png
 url: https://raw.githubusercontent.com/api-evangelist/tingsn/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +30,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Medical Devices
+- Healthcare
+- Cardiology
+- Ultrasound
+- Imaging
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +46,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://tingsn.com
+  url: http://www.tingsn.com
+- type: Blog
+  name: News
+  url: http://tingsn.com/news.php
+- type: Support
+  name: Technical Support
+  url: http://tingsn.com/service.php
+- type: DomainSecurity
+  url: security/tingsn-domain-security.yml
+- type: LLMsTxt
+  url: llms/tingsn-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

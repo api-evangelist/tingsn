@@ -1,0 +1,17 @@
+generated: '2026-07-21'
+method: searched
+host: http://tingsn.com
+note: tingsn.com refuses HTTPS (port 443 connection refused; site is HTTP-only on
+  Alibaba Cloud). Probes were performed over HTTP. No well-known discovery documents
+  are published; no developer subdomains (api./developer./docs.tingsn.com do not resolve).
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
