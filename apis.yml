@@ -9,6 +9,17 @@ description: Jiangsu Tingsn Technology (霆升科技) is a Nanjing, China medica
   3D mapping, and ultrasound ablation platforms in development. Backed by Qiming Venture
   Partners with R&D centers in Nanjing and Massachusetts, Tingsn is a clinical hardware
   company and publishes no public API or developer program.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
