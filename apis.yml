@@ -33,6 +33,9 @@ accessModel:
   method: derived
 image: http://tingsn.com/assets/images/logo.png
 url: https://raw.githubusercontent.com/api-evangelist/tingsn/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Backed by Qiming Venture Partners with R&D centers in Nanjing and Massachusetts, Tingsn is a clinical hardware company and publishes no public API or developer program."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
